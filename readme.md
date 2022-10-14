@@ -6,11 +6,11 @@
 
 ![HTML & CSS](https://img.shields.io/badge/JAVASCRIPT-DOM-orange)
 
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--AUTO--COMPLETE--SEARXH-UP-lightgrey)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--AUTO--COMPLETE--SEARCH--UP-lightgrey)
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## AutoComplete search [Live Link](https://name-conversion-js.netlify.app/)
+## AutoComplete search [Live Link](https://autocompleate.netlify.app/)
 
 - Skills Gained in this project
 
